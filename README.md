@@ -4,5 +4,5 @@ The app sends you 3 messages that contain the latest news about a company if the
 
 ## To get started you need to:
 + Provide the company name and its stock symbol (e.g. `STOCK="TSLA"`, `COMPANY_NAME = "Tesla Inc."`)
-+ Obtain API keys from [Alpha Vantage]https://www.alphavantage.co and [NewsAPI]https://newsapi.org
++ Obtain API keys from [Alpha Vantage](https://www.alphavantage.co) and [NewsAPI](https://newsapi.org)
 + Set up your Twilio account to get the Account SID, Auth Token and a virtual Twilio number
