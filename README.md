@@ -1,6 +1,6 @@
 # Stock-News-App-in-Python <br>
 A simple Python application mainly build by using APIs and Twilio module.<br>
-The application sends you 3 messages that contain the latest news about a company if stock price of the company changes by more than 5 percent compared to 4 days ago. <br>
+The app sends you 3 messages that contain the latest news about a company if company's stock price changes by more than 5 percent compared to 4 days ago. <br>
 
 ## To get started, you need to:
 + Provide company name and its stock name (e.g. STOCK=TSLA, COMPANY_NAME = Tesla Inc.)
